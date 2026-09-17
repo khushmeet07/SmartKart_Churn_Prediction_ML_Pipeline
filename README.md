@@ -52,6 +52,11 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Google Colab.
 
 `SmartKart_dirty_100_rows.xlsx`
 
+Author
+Khushmeet Kaur
+
+Machine Learning | AI | Business Analytics
+
 The dataset is intentionally messy and is used for educational purposes to demonstrate a complete data preprocessing and machine learning pipeline.
 
 ## Disclaimer
